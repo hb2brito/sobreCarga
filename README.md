@@ -1,18 +1,21 @@
-## Getting Started
+# Aplicação de Comparação de Números
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta é uma aplicação Java simples que permite ao usuário inserir dois ou três números e determinar qual deles é o maior. Se os números inseridos forem iguais, a aplicação notifica o usuário.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- **Comparação de dois números:** O usuário pode inserir dois números e a aplicação retorna o maior entre eles. Se os números forem iguais, uma mensagem informará que os números são iguais.
+- **Comparação de três números:** O usuário pode inserir três números e a aplicação retornará o maior entre eles. Se todos os três números forem iguais, uma mensagem informará que os números são iguais.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Executar
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Pré-requisitos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Java Development Kit (JDK)**: Certifique-se de ter o JDK instalado em sua máquina. Você pode baixar a versão mais recente [aqui](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
-## Dependency Management
+### Passos para Execução
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. **Clone o repositório ou baixe o código-fonte:**
+
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
